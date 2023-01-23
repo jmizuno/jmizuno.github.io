@@ -36,9 +36,9 @@ jmizuno aatt gmail.com
     * [ウェブニュースを利用した雑談対話システム](https://direct.nict.go.jp/members/junta-m/slud55_thesis.pdf). 水野 淳太, 乾 健太郎, 松本 裕治. 第55回 人工知能学会 音声・言語理解と対話処理研究会(SIG-SLUD), pp.1-6, March, 2009
 
 # 職歴
-2018.3 - 現在 	NICT 主任研究員
-2013.4 - 2018.3 	NICT 研究員
-2012.4 - 2013.3 	東北大学 研究員
+- 2018.3 - 現在 	NICT 主任研究員
+- 2013.4 - 2018.3 	NICT 研究員
+- 2012.4 - 2013.3 	東北大学 研究員
 
 # 受賞
 * [平成31年度 科学技術分野の文部科学大臣表彰 科学技術賞（研究部門）](http://www.mext.go.jp/b_menu/houdou/31/04/1415044.htm) ＳＮＳ情報の深い意味的分析に基づく被災状況把握技術の研究
@@ -59,12 +59,12 @@ jmizuno aatt gmail.com
 
 
 # 学歴
-2010.4 - 2012.3 	東北大学 大学院情報科学研究科 システム情報科学専攻 知能情報科学講座 情報伝達学分野 特別研究学生
-2009.4 - 2012.3 	奈良先端科学技術大学院大学 情報科学研究科 博士後期課程
-2007.4 - 2009.3 	奈良先端科学技術大学院大学 情報科学研究科 博士前期課程 自然言語処理学講座
-2006.4 - 2007.3 	豊橋技術科学大学 情報工学課程 研究生
-2005.4 - 2006.3 	豊橋技術科学大学 情報工学課程 自然言語処理研究室
-2002.4 - 2006.3 	豊橋技術科学大学 情報工学課程
+- 2010.4 - 2012.3 	東北大学 大学院情報科学研究科 システム情報科学専攻 知能情報科学講座 情報伝達学分野 特別研究学生
+- 2009.4 - 2012.3 	奈良先端科学技術大学院大学 情報科学研究科 博士後期課程
+- 2007.4 - 2009.3 	奈良先端科学技術大学院大学 情報科学研究科 博士前期課程 自然言語処理学講座
+- 2006.4 - 2007.3 	豊橋技術科学大学 情報工学課程 研究生
+- 2005.4 - 2006.3 	豊橋技術科学大学 情報工学課程 自然言語処理研究室
+- 2002.4 - 2006.3 	豊橋技術科学大学 情報工学課程
 
 [^footnote_jsai]: ここに掲載した著作物の利用に関する注意：本著作物の著作権は人工知能学会に帰属します。本著作物は著作権者である人工知能学会の許可のもとに掲載するものです。ご利用に当たっては「著作権法」に従うことをお願いいたします。
 Notice for the use of this material. The copyright of this material is retained by the Japanese Society for Artificial Intelligence (JSAI). This material is published on this web site with the agreement of the author(s) and the JSAI. Please be complied with Copyright Law of Japan if any users wish to reproduce, make derivative work, distribute or make available to the public any part or whole thereof. All Rights Reserved, Copyright (C) The Japanese Society for Artificial Intelligence.
