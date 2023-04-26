@@ -1,12 +1,10 @@
 <img src="photo_top.jpg" title="Junta Mizuno" style="width:40%">
 
-(国研) 情報通信研究機構(NICT) 主任研究員 水野淳太
-NICTの主任研究員として、最近は対話システムの開発を行っています。
+(国研) 情報通信研究機構(NICT) プランニングマネージャー 水野淳太
 
 # 所属・連絡先
 (国研) 情報通信研究機構 (NICT)
-ユニバーサルコミュニケーション研究所 データ駆動知能システム研究センター 主任研究員
-ネットワーク研究所 レジリエントICT研究センター サステナブルICTシステム研究室（兼務）
+経営企画部 企画戦略室　プランニングマネージャー
 
 博士（情報学） 奈良先端科学技術大学院大学
 
@@ -15,8 +13,10 @@ jmizuno aatt gmail.com
 # これまでの主要な研究成果、開発システムなど
 
 * 高齢者向け介護支援マルチモーダル音声対話システムMICSUS
-  * ケアマネジャーなど介護職の方が、高齢者の健康状態・生活習慣などを面談で確認する介護モニタリングを代替する対話システムです。SIP第2期の支援のもと企業との共同研究で開発を行いました。対話はMICSUSからの質問に対してユーザが回答することで進みますが、ユーザ発話の解釈結果や感情分析結果などから次の質問を選択し、必要に応じて雑談も展開します。ユーザ発話の意味解釈機構の開発と、全体の開発指揮を行いました。
-  * [Youtube](https://youtu.be/8IhanHO9iT4)
+  * ケアマネジャーなど介護職の方が、高齢者の健康状態・生活習慣などを面談で確認する介護モニタリングを代替する対話システムです。SIP第2期の支援のもと企業との共同研究で開発を行いました。対話はMICSUSからの質問に対してユーザが回答することで進みますが、ユーザ発話の解釈結果や感情分析結果などから次の質問を選択し、必要に応じて雑談も展開します。ユーザ発話の意味解釈機構の開発と、全体の開発指揮を行いました。YoutubeでMICSUSの詳細や高齢者との対話の様子がご覧になれます。
+  * [Youtube 「内閣府SIP第2期　MICSUSの実証実験成果について」](https://youtu.be/cuIHPYEqOKc)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cuIHPYEqOKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  * [Youtube 「高齢者介護支援マルチモーダル音声対話システムMICSUS(ミクサス) 2022年10月版」](https://youtu.be/8IhanHO9iT4)
   <iframe style="padding-left:50px" width="560" height="315" src="https://www.youtube.com/embed/8IhanHO9iT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Web上の文書から情報を得る対話システムWEKDA
