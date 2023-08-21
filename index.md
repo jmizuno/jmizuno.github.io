@@ -8,14 +8,17 @@
 
 博士（情報学） 奈良先端科学技術大学院大学
 
+junta-m aatt nict.go.jp
 jmizuno aatt gmail.com
 
 # これまでの主要な研究成果、開発システムなど
 
 * 高齢者向け介護支援マルチモーダル音声対話システムMICSUS
   * ケアマネジャーなど介護職の方が、高齢者の健康状態・生活習慣などを面談で確認する介護モニタリングを代替する対話システムです。SIP第2期の支援のもと企業との共同研究で開発を行いました。対話はMICSUSからの質問に対してユーザが回答することで進みますが、ユーザ発話の解釈結果や感情分析結果などから次の質問を選択し、必要に応じて雑談も展開します。ユーザ発話の意味解釈機構の開発と、全体の開発指揮を行いました。YoutubeでMICSUSの詳細や高齢者との対話の様子がご覧になれます。
+  * [Youtube 「未来の姿がここに『NICTステーション　～MICSUS～』（NA上白石萌音）」](https://youtu.be/gGjwne8Hluc)
+  <iframe style="padding-left:50px" width="560" height="315" src="https://www.youtube.com/embed/gGjwne8Hluc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   * [Youtube 「内閣府SIP第2期　MICSUSの実証実験成果について」](https://youtu.be/cuIHPYEqOKc)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/cuIHPYEqOKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe style="padding-left:50px" width="560" height="315" src="https://www.youtube.com/embed/cuIHPYEqOKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   * [Youtube 「高齢者介護支援マルチモーダル音声対話システムMICSUS(ミクサス) 2022年10月版」](https://youtu.be/8IhanHO9iT4)
   <iframe style="padding-left:50px" width="560" height="315" src="https://www.youtube.com/embed/8IhanHO9iT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -36,11 +39,13 @@ jmizuno aatt gmail.com
     * [ウェブニュースを利用した雑談対話システム](https://direct.nict.go.jp/members/junta-m/slud55_thesis.pdf). 水野 淳太, 乾 健太郎, 松本 裕治. 第55回 人工知能学会 音声・言語理解と対話処理研究会(SIG-SLUD), pp.1-6, March, 2009
 
 # 職歴
-- 2018.3 - 現在 	NICT 主任研究員
-- 2013.4 - 2018.3 	NICT 研究員
-- 2012.4 - 2013.3 	東北大学 研究員
+- 2023.4 - 現在 NICT プラニングマネージャー
+- 2018.3 - 2023.3 NICT 主任研究員
+- 2013.4 - 2018.3	NICT 研究員
+- 2012.4 - 2013.3	東北大学 研究員
 
 # 受賞
+* 令和5年度NICT優秀賞団体（部内表彰 代表者） マルチモーダル音声対話システムMICSUS研究開発チーム. マルチモーダル音声対話システムMICSUSの研究開発およびその実証実験の推進
 * [平成31年度 科学技術分野の文部科学大臣表彰 科学技術賞（研究部門）](http://www.mext.go.jp/b_menu/houdou/31/04/1415044.htm) ＳＮＳ情報の深い意味的分析に基づく被災状況把握技術の研究
 * [平成30年度NICT社会貢献賞（部内表彰 個人）](http://www.nict.go.jp/info/topics/2018/05/180510-1.html) DISAANA, D-SUMMの社会実装に関する貢献
 * [情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamashita2016.html)
